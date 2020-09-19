@@ -1,0 +1,1 @@
+np.savetxt('H:/Programowanie/repozytorium/energ1.txt',np.column_stack([u1,i1]))
